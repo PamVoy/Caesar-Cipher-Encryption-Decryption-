@@ -16,7 +16,7 @@ Decryption: 輸入Encryption使用的兩個數字A,B; 再輸入欲解密的密�
    Y : output cipher character (a...z , A...Z , white space , 0...9 , dot , marks...)
    
    A : positive number ( A ≠2n , A ≠13n , n = 1,2,3~ )
-   A 不可為偶數,不可為2或13的倍數 
+   A 不可為偶數,不可為13的倍數 
    
    B : positive number 
 
