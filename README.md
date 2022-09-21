@@ -1,9 +1,9 @@
 # Caesar-Cipher-Encryption-Decryption-
 Caesar Cipher for string encryption and decryption. ( C language )
 
-Encryption: 先輸入兩個數字A,B; 再輸入欲加密的英文字串,得到密文
+Encryption: 先輸入兩個正整數 A,B; 再輸入欲加密的英文字串,得到密文
 
-Decryption: 輸入Encryption使用的兩個數字A,B; 再輸入欲解密的密文,得到原始明文
+Decryption: 輸入Encryption使用的兩個正整數 A,B; 再輸入欲解密的密文,得到原始明文
 
 
    Caesar Cipher (Encryption):
